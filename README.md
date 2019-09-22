@@ -1,10 +1,10 @@
-# Wireframe 0.1.0
+# Bulzeye 0.1.0
 
 > Web Application template.
 
 This is a MERN stack application. 
 
-It is a small wireframe web application template that includes authentication, profiles and forum posts.
+It is a small web application template that includes authentication, profiles and forum posts.
 The idea is to have a quick out of the box application with Login, Security, State, Routing and Database storage.
 
 The Web Application is being hosted on Heroku.
